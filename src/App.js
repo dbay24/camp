@@ -18,6 +18,7 @@ class App extends Component {
             <li>Axe</li>
             <li>Canteen</li>
             <li>Matches</li>
+            <li>First Aid Kit</li>
         </ul>
       </div>
     );
