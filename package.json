@@ -22,7 +22,7 @@
   },
   "gh-pages-deploy": {
     "staticpath": "build",
-    "cname": "nope.org",
+    //"cname": "nope.org",
     "prep": [
       "build"
     ],
