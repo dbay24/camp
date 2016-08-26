@@ -13,6 +13,12 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <ul>
+            <li>Machete</li>
+            <li>Axe</li>
+            <li>Canteen</li>
+            <li>Matches</li>
+        </ul>
       </div>
     );
   }
