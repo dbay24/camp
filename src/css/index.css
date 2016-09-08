@@ -4,3 +4,8 @@ body {
   font-family: sans-serif;
   background-color: rgba(0, 0, 0, 0.2);
 }
+
+.survival-kit {
+  display: inline-block;
+  list-style: none;
+}

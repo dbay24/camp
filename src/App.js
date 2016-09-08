@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './css/App.css';
+import './css/index.css';
 
 class App extends Component {
   render() {
@@ -13,12 +14,12 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <ul>
-            <li>Machete</li>
-            <li>Axe</li>
-            <li>Canteen</li>
-            <li>Matches</li>
-            <li>First Aid Kit</li>
+        <ul className="survival-kit">
+            <li className="kit-item">Machete</li>
+            <li className="kit-item">Axe</li>
+            <li className="kit-item">Canteen</li>
+            <li className="kit-item">Matches</li>
+            <li className="kit-item">First Aid Kit</li>
         </ul>
       </div>
     );
